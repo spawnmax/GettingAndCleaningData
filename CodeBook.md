@@ -1,6 +1,6 @@
-### Codebook
+## Codebook
 
-## Variables
+### Variables
 
 Variable name	| Description
 ----------------|------------
